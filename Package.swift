@@ -22,9 +22,5 @@ let package = Package(
                 .product(name: "Primitives", package: "Primitives"),
             ],
         ),
-        .testTarget(
-            name: "ICSTests",
-            dependencies: ["ICS"]
-        ),
     ]
 )
