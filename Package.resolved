@@ -4,7 +4,7 @@
     {
       "identity" : "primitives",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Primitives.git",
+      "location" : "https://github.com/swift-lco/Primitives.git",
       "state" : {
         "branch" : "master",
         "revision" : "3a899c26f691807ef4c36370d364698a64c99e77"
